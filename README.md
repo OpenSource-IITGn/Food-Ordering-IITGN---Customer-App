@@ -17,3 +17,4 @@
 - Nishikant Parmar*
 
 *Equal contribution
+![image](https://user-images.githubusercontent.com/30774147/146324312-2b4f1dd9-040e-4c87-9e43-9f8d475cc9b4.png)
